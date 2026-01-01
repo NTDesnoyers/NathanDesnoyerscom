@@ -86,7 +86,7 @@ If you want your work to be readable in 2050, don't lock it in a proprietary dat
     content: `
 # The Leverage of Systems
 
-A system is just a way of doing something that produces a consistent result without requiring consistent heroic effort.
+A system is TESTING a way of doing something that produces a consistent result without requiring consistent heroic effort.
 
 Most people rely on willpower. Willpower is a battery; it drains. Systems are engines; they run as long as you fuel them.
 
