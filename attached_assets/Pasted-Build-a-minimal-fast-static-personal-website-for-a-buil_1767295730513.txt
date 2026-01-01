@@ -1,0 +1,105 @@
+Build a minimal, fast, static personal website for a builder documenting his long-term work and thinking.
+
+Context:
+- This site is the canonical home for long-form writing and dated journal entries.
+- The owner is a builder working primarily in real estate, technology, AI, and systems.
+- The goal is to document thinking over time and create a durable public record (“public lab notebook”), not a marketing funnel.
+- Writing velocity, clarity, and long-term archive quality matter more than conversion optimization.
+- Distribution (Substack, social, email) happens elsewhere; this site is the durable library.
+
+Identity & Tone:
+- Builder-first, career-focused
+- Calm, thoughtful, professional, non-promotional
+- Serious but human
+- Not a lifestyle blog and not a Realtor® landing page
+- Feels like a research notebook / thinking archive
+
+Technical Requirements:
+- Static site (no database)
+- Content authored in Markdown files
+- Easy to add new content by creating new Markdown files
+- Clean, readable typography
+- Very fast load times
+- Minimal JavaScript
+- Stable, human-readable URLs
+- RSS feed support
+- Designed to be portable and durable over decades
+
+Top-Level Site Structure:
+- Home
+- Notes
+- Essays
+- Real Estate
+- About
+
+Content Model:
+
+1. Notes (primary writing surface)
+   - Raw, exploratory, in-progress thinking
+   - One entry per Markdown file
+   - Each entry must begin with a date header in this exact format:
+     YYYY.MM.DD
+   - Date must appear on its own line at the top of the file
+   - Entries are listed in reverse chronological order
+   - Each entry has its own permanent URL
+   - No comments or engagement features
+
+2. Essays
+   - More structured, compressed writing
+   - Still plainspoken and non-marketing
+   - One essay per Markdown file
+   - Stable permalinks
+   - Listed chronologically
+
+3. Real Estate (/real-estate)
+   - A single professional section, not a conversion-focused microsite
+   - Purpose: reassure and route warm, referred, or trust-based visitors
+   - Content should include:
+     - Clear statement that the owner is a licensed Realtor® in Northern Virginia
+     - Who he works with best
+     - How he approaches buying and selling
+     - Links to external profiles for reviews (Google, Zillow, LinkedIn, etc.)
+     - Clear contact path
+   - No IDX, no listing search, no SEO keyword stuffing
+   - Calm, compliant, and professional
+   - Designed to interlock with Google Business Profile (GBP should link here)
+
+4. About
+   - Brief explanation of the project and intent:
+     “I’m a builder documenting my work and thinking over time.”
+   - Mention domains of focus: real estate, technology, AI, systems
+   - No resume-style content
+   - No hype language
+
+Navigation:
+- Simple top navigation: Home, Notes, Essays, Real Estate, About
+- Default landing experience should emphasize writing (Notes / Essays), not services
+
+URLs:
+- Notes: /notes/YYYY.MM.DD-optional-slug
+- Essays: /essays/YYYY-MM-optional-slug
+- Real Estate: /real-estate
+- URLs must not change once published
+
+Design Constraints:
+- Clean, minimal, professional
+- Optimized for reading
+- No popups, no lead magnets, no aggressive calls to action
+- No comments, likes, or social widgets
+- Neutral color palette
+- Typography-first design
+
+Future-Proofing:
+- Structure should support:
+  - RSS feeds
+  - Easy syndication to Substack or email
+  - Full archive export later
+- Avoid platform-specific dependencies
+- Avoid overengineering
+
+Deliverables:
+- Project file structure
+- Sample Markdown file for a Note (with YYYY.MM.DD date header)
+- Sample Markdown file for an Essay
+- Basic styling focused on readability
+- Clear inline comments explaining how to add new Notes and Essays
