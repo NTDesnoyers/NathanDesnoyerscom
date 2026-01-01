@@ -1,4 +1,7 @@
-// Mock content database
+// Content Database
+// To add a new Note or Essay, add a new object to the 'content' array below.
+// Type: 'note' for raw thinking, 'essay' for structured writing.
+// Date: Must be in YYYY.MM.DD format for Notes.
 export interface Post {
   slug: string;
   title: string;
@@ -8,6 +11,16 @@ export interface Post {
 }
 
 export const content: Post[] = [
+  /* 
+  EXAMPLE OF HOW TO ADD NEW CONTENT:
+  {
+    slug: "your-url-slug",
+    title: "Your Post Title",
+    date: "2026.01.01",
+    type: "note",
+    content: `Your content here in markdown format.`
+  },
+  */
   {
     slug: "2025.01.01-starting-the-log",
     title: "Starting the Log",
