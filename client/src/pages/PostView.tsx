@@ -2,6 +2,7 @@ import { Layout } from "@/components/Layout";
 import { getPost } from "@/lib/content";
 import { useRoute, Link } from "wouter";
 import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
 import NotFound from "./not-found";
 import { ArrowLeft } from "lucide-react";
 
@@ -44,6 +45,7 @@ export default function PostView() {
 
         <div className="prose-content">
           <ReactMarkdown
+             remarkPlugins={[remarkGfm]}
              components={{
                 h1: ({node, ...props}) => <span className="hidden" {...props} />, // Hide H1 as we render it in header
              }}
