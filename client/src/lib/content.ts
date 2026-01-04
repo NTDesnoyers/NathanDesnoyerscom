@@ -73,31 +73,35 @@ They let learning layer into life instead of competing with it. That’s what ma
 
 Tim Ferriss is the obvious starting point.
 
-He will continue to be one of the most influential people I follow because I have a deep respect for how he learns. I take a lot from his curiosity, his experimentation, and especially the way he asks questions.
+He has been one of the most consistently influential people in my life—not because I agree with everything he says, but because of how he thinks and how he learns. His curiosity, willingness to experiment, and the way he asks questions have shaped how I approach conversations, decisions, and learning across my life.
 
-When you distill **Ninja Selling**—the system I use to run my real estate business—down to its most basic form, it comes down to this: ask good questions, listen for change, and serve as that change. That model applies to far more than sales. It’s about paying attention, understanding what matters to people, and providing value accordingly.
+When you distill **Ninja Selling**—the system I use to run my real estate business—down to its most basic form, it comes down to this: ask good questions, listen for change, and serve as that change. At its core, it’s about attention—about noticing what matters to people and responding accordingly.
 
-Tim embodies that approach at a very high level. The way he interviews people, probes their thinking, and stays genuinely curious has shaped how I approach conversations across my life.
+That’s why Tim resonates so deeply with me. His interviews feel less like interrogations and more like extended listening sessions. He stays genuinely curious, lets ideas unfold in real time, and isn’t afraid to sit with uncertainty. That approach has influenced how I show up not just in business, but in relationships and day-to-day life.
 
-I first got into personal development in **2018**, right after graduating college. I was trying to mature, to be better at life, and to figure out how to function as an adult. I had heard of *The 4-Hour Workweek* for years, but I don’t think I actually read it until **2020 or 2021**.
+I first got into personal development around 2018, right after graduating college. I was trying to mature—to be better at life, to figure out how to function as an adult. I had heard about *The 4-Hour Workweek* for years, but I don’t think I actually read it until 2020 or 2021.
 
-What I do remember clearly is trying to apply ideas from that book at my job. I tried to convince my boss to let me work remotely. The answer was a firm no. At the time, I essentially told them that I would be working a fully remote job at some point anyway.
+What I remember most clearly isn’t the book itself, but what it gave me permission to question.
 
-When I was fired in **June 2022**, that conversation was referenced as evidence that I had already decided I wouldn’t be there long-term.
+I tried to apply some of those ideas at my job. I asked whether remote work was possible. The answer was a firm no. At the time, I more or less said that I would be working a fully remote job eventually anyway.
 
-So—thank you, Tim, for helping me with that.
+When I was fired in June 2022, that conversation came back up—as evidence that I had already mentally moved on.
 
-I don’t blame them. Why would they have let me do that?
+So—thank you, Tim, for helping me name that truth early.
 
-Around that same time, I got my real estate license. In earlier years, real-estate-specific podcasts dominated my listening. Over time, I’ve drifted away from most of that content—not because it isn’t valuable, but because I’ve learned most of what I can from it. At this point, the learning comes from application—from doing the work and learning from the results.
+I don’t blame them. From their perspective, why would they have let me do that?
 
-My original plan was to succeed at my job, build real estate on the side, and quit once the income pipeline was clear. That would have been a good plan if I had followed it.
+Around that same period, I got my real estate license. In the early years, real-estate-specific podcasts dominated my listening. Over time, that shifted—not because the material stopped being useful, but because I had absorbed most of what I could. The learning moved from consumption to application.
 
-But I’ve also learned that if something isn’t right for you, you don’t have to endure it indefinitely. I had a false sense of obligation—a desire to leave things “the right way” and to be able to point to a résumé of success.
+My original plan was straightforward: succeed at my job, build real estate on the side, and quit once the income pipeline was clear. That would have been a good plan if I had followed it.
 
-There *is* something admirable about people who can push through discomfort. My best friend Luke is a great example—he succeeded in a job he didn’t like and then started his business. That’s a quality I respect and aspire to.
+But I’ve learned that sometimes the right move isn’t waiting for the perfect transition—it’s recognizing when something simply isn’t aligned anymore.
 
-I do that in my own way—just not day in and day out. I choose which discomforts I'll push through: hard conversations, administrative work, taxes, operational friction. That’s my version of endurance.
+There is something admirable about people who can push through discomfort. My best friend Luke is a great example—he succeeded in a job he didn’t enjoy and then started his business. That’s a quality I respect and aspire to.
+
+I do that in my own way—just not endlessly. I’m selective about the discomforts I choose to endure: hard conversations, administrative work, taxes, operational friction. Those are the tracks I’ll replay. Others I’ve learned to skip.
+
+In that sense, Tim’s influence isn’t a single lesson or book—it’s the through-line. A recurring motif that keeps pulling me back to the same questions: What am I paying attention to? What assumptions am I carrying forward out of habit? Where am I being honest with myself—and where am I not? More than tactics or tools, that pattern of attention has shaped how I make decisions, even when the transition between chapters isn’t clean.
 
 ---
 
@@ -221,11 +225,25 @@ One belief that changed for me this year is the idea that attention problems can
 
 ## Closing
 
-I still want to identify a top 10 list of episodes and revisit them intentionally. I also plan to write a companion piece on where my attention went in books, then synthesize the themes across both.
-
 This exercise wasn’t about optimization or consumption for its own sake. It was about noticing patterns—what consistently earned my attention, and therefore what was quietly shaping my thinking over time.
 
 This isn’t a theory of attention—just a practice of noticing.
+
+---
+
+## Epistemology, Meaning, and Spirituality
+
+Some of the most influential listening I did this year doesn’t fit neatly into business or technology.
+
+David Deutsch has been especially impactful. I’ve read *The Beginning of Infinity* and listened multiple times to his conversations with Tim Ferriss and Naval Ravikant. What resonates most isn’t just the science, but the philosophy—epistemology, what makes a good explanation, and how knowledge actually progresses. Understanding how we know things, and what makes an explanation good or bad, has shaped my decision-making more deeply than simply absorbing information ever could.
+
+Naval Ravikant appears here less as a content source and more as a philosophical reference point. When Tim speaks highly of someone, I pay attention. Naval’s clarity around leverage, truth-seeking, and attention has quietly influenced how I think about work, learning, and life—even when I’m not actively listening to him.
+
+I also loved *The Random Show* with Tim Ferriss and Kevin Rose. Their conversations remind me of long, meandering discussions with close friends—sharing ideas, habits, philosophies, and life updates without an agenda. Listening to them often makes me want to pick up the phone and reconnect with people I care about.
+
+Despite how much of my attention goes toward technology, I’m also a daily meditator. I meditate using *The Way* app with Henry Shukman, and I’ll expand more on this when I write about his book *One Blade of Grass*. Exploring spirituality and consciousness intellectually is interesting, but experiencing it directly through daily practice has been grounding in a way that thinking alone isn’t.
+
+I also spent time with *The Bible in a Year* podcast. I’m a confirmed Roman Catholic and was raised in the Church. I don’t currently attend regularly and have drifted from some of its explicit teachings, but I feel called to revisit the life of Jesus through an adult lens. I’m starting a book on his life now, and I want to engage with that tradition more thoughtfully moving forward.
     `
   },
   {
