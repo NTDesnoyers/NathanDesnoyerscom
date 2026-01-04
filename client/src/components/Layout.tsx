@@ -1,4 +1,5 @@
 import { Link, useLocation } from "wouter";
+import { Newsletter } from "./Newsletter";
 
 export function Layout({ children }: { children: React.ReactNode }) {
   const [location] = useLocation();
@@ -38,12 +39,16 @@ export function Layout({ children }: { children: React.ReactNode }) {
           {children}
         </main>
 
-        <footer className="mt-24 pt-12 border-t border-border text-sm text-muted-foreground font-mono">
+        <div className="mt-32">
+          <Newsletter />
+        </div>
+
+        <footer className="mt-12 pt-12 border-t border-border text-sm text-muted-foreground font-mono">
           <div className="flex justify-between items-center">
-            <span>© {new Date().getFullYear()} Builder</span>
+            <span>© {new Date().getFullYear()} Nathan Desnoyers</span>
             <div className="flex gap-4">
               <a href="#" className="hover:text-foreground transition-colors">RSS</a>
-              <a href="#" className="hover:text-foreground transition-colors">Email</a>
+              <a href="mailto:nathan@desnoyersproperties.com" className="hover:text-foreground transition-colors">Email</a>
             </div>
           </div>
         </footer>
