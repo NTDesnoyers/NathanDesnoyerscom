@@ -62,7 +62,13 @@ export default function Home() {
                     <span className="font-mono text-xs text-muted-foreground shrink-0 ml-4">{essay.date}</span>
                   </div>
                   <p className="text-muted-foreground line-clamp-2 leading-relaxed">
-                    {essay.content.replace(/^#.*\n/, '').replace(/\n/g, ' ').substring(0, 150)}...
+                    {essay.content
+                      .replace(/^#.*\n/g, '') // Remove H1
+                      .replace(/^>.*\n/g, '') // Remove Blockquotes
+                      .replace(/[\*\_\[\]]/g, '') // Remove formatting symbols (*, _, [, ])
+                      .replace(/\n/g, ' ')
+                      .trim()
+                      .substring(0, 150)}...
                   </p>
                 </a>
               </Link>

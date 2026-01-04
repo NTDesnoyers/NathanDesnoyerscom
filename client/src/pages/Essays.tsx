@@ -26,7 +26,13 @@ export default function Essays() {
                   {essay.title}
                 </h2>
                 <p className="text-muted-foreground leading-relaxed max-w-2xl">
-                   {essay.content.replace(/^#.*\n/, '').replace(/#/g, '').replace(/\n+/g, ' ').substring(0, 200).trim()}...
+                   {essay.content
+                      .replace(/^#.*\n/g, '')
+                      .replace(/^>.*\n/g, '')
+                      .replace(/[\*\_\[\]]/g, '')
+                      .replace(/\n+/g, ' ')
+                      .trim()
+                      .substring(0, 200)}...
                 </p>
               </a>
             </Link>
