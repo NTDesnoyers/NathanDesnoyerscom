@@ -96,6 +96,18 @@
   @apply underline decoration-muted-foreground/30 hover:decoration-foreground transition-colors;
 }
 
-.prose-content blockquote {
-  @apply border-l-2 border-muted pl-4 italic text-muted-foreground my-6;
+.prose-content table {
+  @apply w-full border-collapse my-8 text-sm font-sans;
+}
+
+.prose-content th {
+  @apply border-b-2 border-foreground text-left p-2 font-medium;
+}
+
+.prose-content td {
+  @apply border-b border-border p-2 text-muted-foreground;
+}
+
+.prose-content tr:hover td {
+  @apply text-foreground bg-muted/30;
 }
