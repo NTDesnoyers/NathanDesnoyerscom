@@ -101,7 +101,7 @@ There is something admirable about people who can push through discomfort. My be
 
 I do that in my own way—just not endlessly. I’m selective about the discomforts I choose to endure: hard conversations, administrative work, taxes, operational friction. Those are the tracks I’ll replay. Others I’ve learned to skip.
 
-In that sense, Tim’s influence isn’t a single lesson or book—it’s the through-line. A recurring motif that keeps pulling me back to the same questions: What am I paying attention to? What assumptions am I carrying forward out of habit? Where am I being honest with myself—and where am I not? More than tactics or tools, that pattern of attention has shaped how I make decisions, even when the transition between chapters isn’t clean.
+In that sense, Tim’s influence isn’t a single lesson or book—it’s the through-line. A recurring motif that keeps pulling me back to the same questions: What am I paying attention to? What assumptions am I carrying forward out of habit? Where am I being honest with myself—and where am I not? More than tactics or tools, that pattern of attention has shaped how I make decisions, even when the transition between chapters isn't clean.
 
 ---
 
@@ -151,7 +151,7 @@ Listening to a16z helped me contextualize AI the same way people once contextual
 
 That framing maps directly onto what I’m building with Flow OS: using AI to capture conversations and information more easily, then applying AI at every angle to extract more value—for users and for the people they serve.
 
-What I appreciate most about a16z is learning about technology through the lens of an investor. Investors must be historically literate and forward-looking, placing capital, teams, and energy into lanes where growth is likely to occur.
+What I appreciate most about a16z is learning about technology through the lens of an investor. Investors must be historically literate and forward-looking, placing capital, teams, and energy into lanes where growth likely occurs.
 
 One of the most influential episodes was a repost of the **Techno-Optimist Manifesto**, written by Marc Andreessen. The term *techno-optimist* perfectly captures how I see the world. The manifesto articulated ideas I hadn’t fully put into words yet, especially around markets, incentives, and progress.
 
@@ -177,9 +177,21 @@ I discovered **Patrick O’Shaughnessy** near the end of the year through David 
 
 **Know Thyself** is something I listen to selectively, mainly when he hosts guests I already respect. Bandwidth matters.
 
-**The Network State Podcast**, hosted by Balaji Srinivasan, is something I’ll listen to almost everything from, even when it gets highly technical. Balaji is one of the clearest predictors of where things are heading, and I want to understand how ideas like the network state may apply to my future as a builder.
+---
 
-I only listened to **Joe Rogan** because he hosted Ray Kurzweil. I didn’t enjoy the interview and generally don’t enjoy his format, so he won’t be a regular part of my listening.
+## Epistemology, Meaning, and Spirituality
+
+Some of the most influential listening I did this year doesn’t fit neatly into business or technology.
+
+David Deutsch has been especially impactful. I’ve read *The Beginning of Infinity* and listened multiple times to his conversations with Tim Ferriss and Naval Ravikant. What resonates most isn’t just the science, but the philosophy—epistemology, what makes a good explanation, and how knowledge actually progresses. Understanding how we know things, and what makes an explanation good or bad, has shaped my decision-making more deeply than simply absorbing information ever could.
+
+Naval Ravikant appears here less as a content source and more as a philosophical reference point. When Tim speaks highly of someone, I pay attention. Naval’s clarity around leverage, truth-seeking, and attention has quietly influenced how I think about work, learning, and life—even when I’m not actively listening to him.
+
+I also loved *The Random Show* with Tim Ferriss and Kevin Rose. Their conversations remind me of long, meandering discussions with close friends—sharing ideas, habits, philosophies, and life updates without an agenda. Listening to them often makes me want to pick up the phone and reconnect with people I care about.
+
+Despite how much of my attention goes toward technology, I’m also a daily meditator. I meditate using *The Way* app with Henry Shukman, and I’ll expand more on this when I write about his book *One Blade of Grass*. Exploring spirituality and consciousness intellectually is interesting, but experiencing it directly through daily practice has been grounding in a way that thinking alone isn’t.
+
+I also spent time with *The Bible in a Year* podcast. I’m a confirmed Roman Catholic and was raised in the Church. I don’t currently attend regularly and have drifted from some of its explicit teachings, but I feel called to revisit the life of Jesus through an adult lens. I’m starting a book on his life now, and I want to engage with that tradition more thoughtfully moving forward.
 
 ---
 
@@ -228,26 +240,10 @@ One belief that changed for me this year is the idea that attention problems can
 This exercise wasn’t about optimization or consumption for its own sake. It was about noticing patterns—what consistently earned my attention, and therefore what was quietly shaping my thinking over time.
 
 This isn’t a theory of attention—just a practice of noticing.
-
----
-
-## Epistemology, Meaning, and Spirituality
-
-Some of the most influential listening I did this year doesn’t fit neatly into business or technology.
-
-David Deutsch has been especially impactful. I’ve read *The Beginning of Infinity* and listened multiple times to his conversations with Tim Ferriss and Naval Ravikant. What resonates most isn’t just the science, but the philosophy—epistemology, what makes a good explanation, and how knowledge actually progresses. Understanding how we know things, and what makes an explanation good or bad, has shaped my decision-making more deeply than simply absorbing information ever could.
-
-Naval Ravikant appears here less as a content source and more as a philosophical reference point. When Tim speaks highly of someone, I pay attention. Naval’s clarity around leverage, truth-seeking, and attention has quietly influenced how I think about work, learning, and life—even when I’m not actively listening to him.
-
-I also loved *The Random Show* with Tim Ferriss and Kevin Rose. Their conversations remind me of long, meandering discussions with close friends—sharing ideas, habits, philosophies, and life updates without an agenda. Listening to them often makes me want to pick up the phone and reconnect with people I care about.
-
-Despite how much of my attention goes toward technology, I’m also a daily meditator. I meditate using *The Way* app with Henry Shukman, and I’ll expand more on this when I write about his book *One Blade of Grass*. Exploring spirituality and consciousness intellectually is interesting, but experiencing it directly through daily practice has been grounding in a way that thinking alone isn’t.
-
-I also spent time with *The Bible in a Year* podcast. I’m a confirmed Roman Catholic and was raised in the Church. I don’t currently attend regularly and have drifted from some of its explicit teachings, but I feel called to revisit the life of Jesus through an adult lens. I’m starting a book on his life now, and I want to engage with that tradition more thoughtfully moving forward.
     `
   },
   {
-    slug: "2025.01.01-starting-the-log",
+    slug: "2026.01.04-starting-the-log",
     title: "Starting the Log",
     date: "2026.01.04",
     type: "note",
