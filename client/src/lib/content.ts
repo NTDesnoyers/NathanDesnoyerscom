@@ -252,13 +252,21 @@ This isn’t a theory of attention—just a practice of noticing.
     date: "2026.01.04",
     type: "note",
     content: `
-This is the beginning of a public lab notebook. 
+This is the beginning of a public lab notebook.
 
-I've spent years building things—houses, software systems, teams—but much of the thinking behind that work has been lost to email threads, Slack messages, and ephemeral social media posts.
+I’m obsessed with learning and absorbing information. That obsession leads to a lot of thoughts. Many of them bounce around my head and go nowhere. Some of them turn into conversations. All of them, in one way or another, leak into how I approach the world—how I build, how I decide, how I show up.
 
-The goal here isn't traffic. It's clarity. Writing forces you to structure your thoughts, to test your assumptions, and to create a record that can be referenced later.
+Until now, most of that thinking has been ephemeral. It lives in my head, in passing conversations, in email threads, Slack messages, or short social posts that disappear as quickly as they’re written.
 
-This site is static. It's simple. It's designed to last. No databases to maintain, no complex CMS to update. just text files and a build process. 
+The goal here isn’t traffic. It’s clarity.
+
+Writing forces me to slow down and make my thinking explicit—to see what I actually believe, to test assumptions, and to notice patterns I’d otherwise miss. Right now, the primary objective is simple: capture what’s already happening internally and get into the habit of writing regularly.
+
+Over time, I want this to become a breadcrumb trail for my future self—a record of when certain ideas first appeared, how they influenced decisions, and which heuristics proved useful or flawed. If that trail is helpful to anyone else along the way, that’s a bonus.
+
+This site is intentionally simple. It’s static. It’s designed to last. No databases to maintain, no complex CMS to update—just text files, versioned over time, and a build process. The constraint is the point.
+
+This is where the log starts.
     `
   }
 ];
