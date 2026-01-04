@@ -32,7 +32,7 @@ Your content here in markdown format.
   */
   {
     slug: "where-i-spent-my-attention-2025",
-    title: "Where I Spent My Attention in 2025",
+    title: "Part I: Where I Spent My Attention in 2025",
     date: "2026.01.01",
     type: "essay",
     content: `
@@ -79,6 +79,26 @@ When you distill **Ninja Selling**—the system I use to run my real estate busi
 
 Tim embodies that approach at a very high level. The way he interviews people, probes their thinking, and stays genuinely curious has shaped how I approach conversations across my life.
 
+I first got into personal development in **2018**, right after graduating college. I was trying to mature, to be better at life, and to figure out how to function as an adult. I had heard of *The 4-Hour Workweek* for years, but I don’t think I actually read it until **2020 or 2021**.
+
+What I do remember clearly is trying to apply ideas from that book at my job. I tried to convince my boss to let me work remotely. The answer was a firm no. At the time, I essentially told them that I would be working a fully remote job at some point anyway.
+
+When I was fired in **June 2022**, that conversation was referenced as evidence that I had already decided I wouldn’t be there long-term.
+
+So—thank you, Tim, for helping me with that.
+
+I don’t blame them. Why would they have let me do that?
+
+Around that same time, I got my real estate license. In earlier years, real-estate-specific podcasts dominated my listening. Over time, I’ve drifted away from most of that content—not because it isn’t valuable, but because I’ve learned most of what I can from it. At this point, the learning comes from application—from doing the work and learning from the results.
+
+My original plan was to succeed at my job, build real estate on the side, and quit once the income pipeline was clear. That would have been a good plan if I had followed it.
+
+But I’ve also learned that if something isn’t right for you, you don’t have to endure it indefinitely. I had a false sense of obligation—a desire to leave things “the right way” and to be able to point to a résumé of success.
+
+There *is* something admirable about people who can push through discomfort. My best friend Luke is a great example—he succeeded in a job he didn’t like and then started his business. That’s a quality I respect and aspire to.
+
+I do that in my own way—just not day in and day out. I choose which discomforts I’ll push through: hard conversations, administrative work, taxes, operational friction. That’s my version of endurance.
+
 ---
 
 ## Moonshots with Peter Diamandis
@@ -87,13 +107,33 @@ Moonshots taps into a different part of me.
 
 It feels like my boyhood curiosity and wonder about the world finally getting space to exist. Peter Diamandis is such a positive force, and *Moonshots* became my go-to podcast in the second half of 2025 when I wanted optimism about where the world is heading and what’s possible with technology.
 
+Around the same time, I leaned more seriously into defining my **Massive Transformative Purpose**, which I currently think of as something like:
+
+> *Rewiring how opportunity flows by building connective intelligence that helps propel humanity into an abundant future.*
+
+Peter represents a lot of what I aspire to: serial entrepreneur, founder of XPRIZE, someone focused on grand human challenges, longevity, and optimism. I want to spend more time with *Moonshots* content, engage with the community, and eventually attend their events.
+
+It’s also been meaningful relationally. I share *Moonshots* episodes with Luke, my best man, and it gives us a shared language to dream big together.
+
 ---
 
 ## Founders with David Senra
 
 *Founders*, by David Senra, is another pillar.
 
-I discovered it through Tim Ferriss. David reads biographies of history’s greatest founders and influential people and distills them into thoughtful verbal essays.
+I discovered it through Tim Ferriss. David reads biographies of history’s greatest founders and influential people and distills them into thoughtful verbal essays. Because that’s all he does, he goes very deep—identifying patterns, traits, and behaviors across people and time.
+
+If you aspire to change the world in a positive way, one of the best ways to do that is to study the people who already have. Take the good. Discard the rest.
+
+There are people I wouldn’t want to be, but there are still ways they think or operate that are worth learning from. David’s work has been invaluable for that. His newer interviews with living founders have added another dimension and expanded the list of people I admire and want to learn from.
+
+---
+
+## Modern Wisdom
+
+*Modern Wisdom* feels adjacent to Tim Ferriss for me.
+
+Chris Williamson gets great guests and asks thoughtful questions. I’m still forming my full opinion of him, but I appreciate the conversations. Podcasting seems to be his primary focus, whereas Tim has a broader portfolio of projects. Still, there’s a lot of value there.
 
 ---
 
@@ -103,7 +143,51 @@ The a16z podcast has become increasingly important as I’ve started building my
 
 Andreessen Horowitz focuses on major technological shifts, and right now almost everything involves AI—not because it’s trendy, but because AI can be applied to nearly everything.
 
-One of the most influential episodes was a repost of the **Techno-Optimist Manifesto**, written by Marc Andreessen. The term *techno-optimist* perfectly captures how I see the world.
+Listening to a16z helped me contextualize AI the same way people once contextualized the internet. The shift from pre-internet to post-internet unlocked massive opportunity simply by connecting technology to the internet. AI feels like a similar shift.
+
+That framing maps directly onto what I’m building with Flow OS: using AI to capture conversations and information more easily, then applying AI at every angle to extract more value—for users and for the people they serve.
+
+What I appreciate most about a16z is learning about technology through the lens of an investor. Investors must be historically literate and forward-looking, placing capital, teams, and energy into lanes where growth is likely to occur.
+
+One of the most influential episodes was a repost of the **Techno-Optimist Manifesto**, written by Marc Andreessen. The term *techno-optimist* perfectly captures how I see the world. The manifesto articulated ideas I hadn’t fully put into words yet, especially around markets, incentives, and progress.
+
+I also recognize that if I’m going to speak about these ideas responsibly, I need to continue becoming more literate—especially when discussing them with people who see the world very differently.
+
+---
+
+## Health, Huberman, and Systems
+
+I come in and out of Huberman and health podcasts because I feel like I’ve already built the system I need.
+
+What isn’t reflected in podcasts or books is **The Happy Body**—a lifestyle system I follow that integrates exercise, diet, mindset, stoicism, Buddhism, and mindfulness. I have a scalable daily routine. I can push hard when I feel great or scale down to stretching and movement when I don’t. My diet is dialed in. When I stray, I return without friction.
+
+Because the system is built, I don’t need to consume much more health content. Now it’s just execution.
+
+---
+
+## Additional Voices
+
+I discovered **Patrick O’Shaughnessy** near the end of the year through David Senra. He helped clarify the difference between thinking like an investor and thinking like a business owner—two related but distinct modes that need to be applied intentionally.
+
+**Dwarkesh** has been a strong complement to *Moonshots*, approaching AI and the future from a more philosophical, multi-angle lens. Listening to him puts me in the same mental space as thinkers like David Deutsch and Naval Ravikant.
+
+**Know Thyself** is something I listen to selectively, mainly when he hosts guests I already respect. Bandwidth matters.
+
+**The Network State Podcast**, hosted by Balaji Srinivasan, is something I’ll listen to almost everything from, even when it gets highly technical. Balaji is one of the clearest predictors of where things are heading, and I want to understand how ideas like the network state may apply to my future as a builder.
+
+I only listened to **Joe Rogan** because he hosted Ray Kurzweil. I didn’t enjoy the interview and generally don’t enjoy his format, so that won’t be a regular part of my listening.
+
+---
+
+## Consequences, Misallocations, and Reflection
+
+Looking back, this attention allocation had real consequences.
+
+On the business side, it kept me thinking big and oriented toward truth-seeking. Being consistently exposed to people who are true masters of their crafts raised my internal bar. At times, that came with a downside—having my head in the clouds occasionally interfered with execution—but overall it expanded my sense of what’s possible.
+
+My biggest misallocation of attention in 2025 wasn’t podcasts—it was my calendar. Too many events, too many low-leverage relationships, and not enough protected time for what mattered most.
+
+One belief that changed for me this year is the idea that attention problems can always be solved alone. I learned—through experience—that some patterns require external structure and accountability to change.
 
 ---
 
@@ -138,6 +222,10 @@ One of the most influential episodes was a repost of the **Techno-Optimist Manif
 ## Closing
 
 I still want to identify a top 10 list of episodes and revisit them intentionally. I also plan to write a companion piece on where my attention went in books, then synthesize the themes across both.
+
+This exercise wasn’t about optimization or consumption for its own sake. It was about noticing patterns—what consistently earned my attention, and therefore what was quietly shaping my thinking over time.
+
+This isn’t a theory of attention—just a practice of noticing.
     `
   },
   {
