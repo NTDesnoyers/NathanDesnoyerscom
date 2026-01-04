@@ -18,7 +18,16 @@ export const content: Post[] = [
     title: "Your Post Title",
     date: "2026.01.01",
     type: "note",
-    content: `Your content here in markdown format.`
+    content: `
+# Your Title
+
+Your content here in markdown format.
+
+| Item | Cost | Note |
+| :--- | :--- | :--- |
+| Concrete | $5k | High durability |
+| Lumber | $12k | Sourced locally |
+    `
   },
   */
   {
