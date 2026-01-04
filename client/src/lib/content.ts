@@ -32,7 +32,7 @@ Your content here in markdown format.
   */
   {
     slug: "where-i-spent-my-attention-2025",
-    title: "Part I: Where I Spent My Attention in 2025",
+    title: "Where I Spent My Attention in 2025: Part 1",
     date: "2026.01.01",
     type: "essay",
     content: `
