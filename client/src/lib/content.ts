@@ -32,10 +32,14 @@ Your content here in markdown format.
   */
   {
     slug: "where-i-spent-my-attention-2025",
-    title: "Where I Spent My Attention in 2025: Part 1",
+    title: "Where I Spent My Attention in 2025: Podcasts",
     date: "2026.01.04",
     type: "essay",
     content: `
+---
+Part 1 of a multi-part series on attention allocation.
+---
+
 > **“The currency of life isn’t money. It’s not even time. It’s attention.”**  
 > — Naval Ravikant
 
