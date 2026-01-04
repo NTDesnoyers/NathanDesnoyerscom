@@ -1,11 +1,9 @@
 import { Layout } from "@/components/Layout";
-import { getNotes, getEssays } from "@/lib/content";
+import { content } from "@/lib/content";
 import { Link } from "wouter";
-import { ArrowRight } from "lucide-react";
 
 export default function Home() {
-  const recentNotes = getNotes().slice(0, 3);
-  const recentEssays = getEssays().slice(0, 2);
+  const allPosts = [...content].sort((a, b) => b.date.localeCompare(a.date));
 
   return (
     <Layout>
@@ -18,57 +16,37 @@ export default function Home() {
         </p>
       </section>
 
-      <section className="mb-16">
-        <div className="flex items-baseline justify-between mb-8 border-b border-border pb-4">
-          <h2 className="text-sm font-mono uppercase tracking-wider text-muted-foreground">Recent Notes</h2>
-          <Link href="/notes">
-            <a className="text-sm text-muted-foreground hover:text-foreground flex items-center gap-1 group">
-              View all <ArrowRight className="w-3 h-3 transition-transform group-hover:translate-x-1" />
-            </a>
-          </Link>
+      <section>
+        <div className="border-b border-border pb-4 mb-8">
+          <h2 className="text-sm font-mono uppercase tracking-wider text-muted-foreground">Recent Activity</h2>
         </div>
         
-        <div className="space-y-8">
-          {recentNotes.map(note => (
-            <article key={note.slug} className="group">
-              <Link href={`/notes/${note.slug}`}>
+        <div className="space-y-16">
+          {allPosts.map(post => (
+            <article key={post.slug} className="group relative">
+              <Link href={`/${post.type}s/${post.slug}`}>
                 <a className="block">
-                  <div className="font-mono text-xs text-muted-foreground mb-1">{note.date}</div>
-                  <h3 className="text-lg font-medium group-hover:underline decoration-muted-foreground/30 underline-offset-4">{note.title}</h3>
-                </a>
-              </Link>
-            </article>
-          ))}
-        </div>
-      </section>
-
-      <section>
-        <div className="flex items-baseline justify-between mb-8 border-b border-border pb-4">
-          <h2 className="text-sm font-mono uppercase tracking-wider text-muted-foreground">Recent Essays</h2>
-          <Link href="/essays">
-            <a className="text-sm text-muted-foreground hover:text-foreground flex items-center gap-1 group">
-              View all <ArrowRight className="w-3 h-3 transition-transform group-hover:translate-x-1" />
-            </a>
-          </Link>
-        </div>
-
-        <div className="space-y-10">
-          {recentEssays.map(essay => (
-            <article key={essay.slug} className="group">
-              <Link href={`/essays/${essay.slug}`}>
-                <a className="block">
-                  <div className="flex justify-between items-baseline mb-2">
-                    <h3 className="text-xl font-serif font-medium group-hover:underline decoration-muted-foreground/30 underline-offset-4">{essay.title}</h3>
-                    <span className="font-mono text-xs text-muted-foreground shrink-0 ml-4">{essay.date}</span>
+                  <div className="flex flex-col md:flex-row md:items-baseline justify-between mb-4">
+                    <div className="flex items-center gap-3 mb-2 md:mb-0">
+                      <span className="font-mono text-[10px] uppercase tracking-widest px-2 py-0.5 border border-border text-muted-foreground group-hover:border-foreground group-hover:text-foreground transition-colors">
+                        {post.type}
+                      </span>
+                      <time className="font-mono text-xs text-muted-foreground">{post.date}</time>
+                    </div>
                   </div>
-                  <p className="text-muted-foreground line-clamp-2 leading-relaxed">
-                    {essay.content
-                      .replace(/^#.*\n/g, '') // Remove H1
-                      .replace(/^>.*\n/g, '') // Remove Blockquotes
-                      .replace(/[\*\_\[\]]/g, '') // Remove formatting symbols (*, _, [, ])
+                  
+                  <h3 className={`font-medium group-hover:underline decoration-muted-foreground/30 underline-offset-4 mb-3 ${post.type === 'essay' ? 'text-2xl font-serif' : 'text-xl font-sans'}`}>
+                    {post.title}
+                  </h3>
+                  
+                  <p className="text-muted-foreground line-clamp-3 leading-relaxed max-w-2xl">
+                    {post.content
+                      .replace(/^#.*\n/g, '') 
+                      .replace(/^>.*\n/g, '') 
+                      .replace(/[\*\_\[\]]/g, '') 
                       .replace(/\n/g, ' ')
                       .trim()
-                      .substring(0, 150)}...
+                      .substring(0, 200)}...
                   </p>
                 </a>
               </Link>
