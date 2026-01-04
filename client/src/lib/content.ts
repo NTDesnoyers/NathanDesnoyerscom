@@ -33,7 +33,7 @@ Your content here in markdown format.
   {
     slug: "where-i-spent-my-attention-2025",
     title: "Where I Spent My Attention in 2025: Part 1",
-    date: "2026.01.01",
+    date: "2026.01.04",
     type: "essay",
     content: `
 > **“The currency of life isn’t money. It’s not even time. It’s attention.”**  
@@ -97,7 +97,7 @@ But I’ve also learned that if something isn’t right for you, you don’t hav
 
 There *is* something admirable about people who can push through discomfort. My best friend Luke is a great example—he succeeded in a job he didn’t like and then started his business. That’s a quality I respect and aspire to.
 
-I do that in my own way—just not day in and day out. I choose which discomforts I’ll push through: hard conversations, administrative work, taxes, operational friction. That’s my version of endurance.
+I do that in my own way—just not day in and day out. I choose which discomforts I'll push through: hard conversations, administrative work, taxes, operational friction. That’s my version of endurance.
 
 ---
 
@@ -175,7 +175,7 @@ I discovered **Patrick O’Shaughnessy** near the end of the year through David 
 
 **The Network State Podcast**, hosted by Balaji Srinivasan, is something I’ll listen to almost everything from, even when it gets highly technical. Balaji is one of the clearest predictors of where things are heading, and I want to understand how ideas like the network state may apply to my future as a builder.
 
-I only listened to **Joe Rogan** because he hosted Ray Kurzweil. I didn’t enjoy the interview and generally don’t enjoy his format, so that won’t be a regular part of my listening.
+I only listened to **Joe Rogan** because he hosted Ray Kurzweil. I didn’t enjoy the interview and generally don’t enjoy his format, so he won’t be a regular part of my listening.
 
 ---
 
@@ -231,7 +231,7 @@ This isn’t a theory of attention—just a practice of noticing.
   {
     slug: "2025.01.01-starting-the-log",
     title: "Starting the Log",
-    date: "2025.01.01",
+    date: "2026.01.04",
     type: "note",
     content: `
 This is the beginning of a public lab notebook. 
@@ -241,65 +241,6 @@ I've spent years building things—houses, software systems, teams—but much of
 The goal here isn't traffic. It's clarity. Writing forces you to structure your thoughts, to test your assumptions, and to create a record that can be referenced later.
 
 This site is static. It's simple. It's designed to last. No databases to maintain, no complex CMS to update. just text files and a build process. 
-    `
-  },
-  {
-    slug: "2025.01.15-material-honesty",
-    title: "Material Honesty in Software",
-    date: "2025.01.15",
-    type: "note",
-    content: `
-In architecture, "truth to materials" is the idea that materials should be used where they are most appropriate, and their nature should not be hidden. Concrete should look like concrete. Wood should look like wood.
-
-We often lack this in software. We wrap everything in layers of abstraction that try to pretend they are something else. We build "desktop-like" apps in browsers that feel uncanny. We build "native-like" apps in webviews that feel sluggish.
-
-Good software, like good building, should respect the medium it is built in. The web is a document-based medium. It excels at linking, referencing, and flowing text. When we fight this, we usually lose.
-    `
-  },
-  {
-    slug: "on-durability",
-    title: "On Durability",
-    date: "2024.12.10",
-    type: "essay",
-    content: `
-# On Durability
-
-We tend to optimize for the immediate. In construction, we see this in "fast fashion" homes—stick frame structures wrapped in vinyl that will look tired in 10 years and fail in 30. In software, we see it in the endless churn of frameworks and dependencies.
-
-But some things are built to last.
-
-## The 100-Year View
-
-What does it mean to build something that lasts 100 years?
-
-In real estate, it means masonry, copper, slate. It means orientation to the sun and wind. It means adaptable floor plans that can evolve as families change.
-
-In software, it's harder to define. Code rots not because the bits degrade, but because the environment around it changes. The OS updates, the browser deprecates an API, the dependencies vanish.
-
-## Simplicity as Preservation
-
-The only strategy for digital durability is radical simplicity. 
-
-HTML is durable. Plain text is durable. Everything else is a liability. 
-
-If you want your work to be readable in 2050, don't lock it in a proprietary database. Don't render it with a complex JavaScript framework that won't build on the computers of the future. Put it in a text file.
-    `
-  },
-  {
-    slug: "the-leverage-of-systems",
-    title: "The Leverage of Systems",
-    date: "2024.11.05",
-    type: "essay",
-    content: `
-# The Leverage of Systems
-
-A system is TESTING a way of doing something that produces a consistent result without requiring consistent heroic effort.
-
-Most people rely on willpower. Willpower is a battery; it drains. Systems are engines; they run as long as you fuel them.
-
-When I look at a real estate deal, I don't look at the house. I look at the system that produced the house. Was it built by a craftsman or a production line? When I look at a company, I don't look at the product launch. I look at the process that enables them to launch products repeatedly.
-
-Building a system is high-leverage work because you do it once and it pays you back forever.
     `
   }
 ];
