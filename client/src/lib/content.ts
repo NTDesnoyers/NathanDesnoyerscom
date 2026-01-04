@@ -31,6 +31,116 @@ Your content here in markdown format.
   },
   */
   {
+    slug: "where-i-spent-my-attention-2025",
+    title: "Where I Spent My Attention in 2025",
+    date: "2026.01.01",
+    type: "essay",
+    content: `
+> **“The currency of life isn’t money. It’s not even time. It’s attention.”**  
+> — Naval Ravikant
+
+That framing has stuck with me for a long time.
+
+If attention is the real currency of life—more than money, more than time—then how you spend it ultimately shapes what you believe, what you value, and the direction your life takes. Looking back on 2025, that question feels especially relevant.
+
+So instead of asking *What did I do this year?*, I wanted to ask something slightly different:
+
+**Where did my attention actually go?**
+
+What questions did I sit with repeatedly?  
+What voices did I keep returning to?  
+What ideas did I allow to shape how I think about the world?
+
+This essay is an attempt to answer that—starting with podcasts.
+
+---
+
+## Part I: Where I Spent My Time (and Attention) in 2025 — Podcasts
+
+Before getting into what I listened to, it’s worth mentioning how I was able to listen to this much at all.
+
+The single biggest enabler of my podcast and reading habit isn’t discipline or productivity hacks—it’s my AirPods.
+
+They’re frictionless. I can pop them in while doing housework, wear them on a walk, or put them in and out throughout the day. I can seamlessly switch between work calls, personal calls, music, podcasts, and audiobooks. They’re also how I take notes verbally through dictation—capturing thoughts the moment they arise instead of hoping I remember them later.
+
+On many walks, I’ll pause a podcast, open Notes or ChatGPT, and dictate half-formed ideas. Many of the thoughts that later became essays, product ideas, or conversations would have died if they hadn’t been captured in motion.
+
+They let learning layer into life instead of competing with it. That’s what made this level of listening possible.
+
+---
+
+## Tim Ferriss
+
+Tim Ferriss is the obvious starting point.
+
+He will continue to be one of the most influential people I follow because I have a deep respect for how he learns. I take a lot from his curiosity, his experimentation, and especially the way he asks questions.
+
+When you distill **Ninja Selling**—the system I use to run my real estate business—down to its most basic form, it comes down to this: ask good questions, listen for change, and serve as that change. That model applies to far more than sales. It’s about paying attention, understanding what matters to people, and providing value accordingly.
+
+Tim embodies that approach at a very high level. The way he interviews people, probes their thinking, and stays genuinely curious has shaped how I approach conversations across my life.
+
+---
+
+## Moonshots with Peter Diamandis
+
+Moonshots taps into a different part of me.
+
+It feels like my boyhood curiosity and wonder about the world finally getting space to exist. Peter Diamandis is such a positive force, and *Moonshots* became my go-to podcast in the second half of 2025 when I wanted optimism about where the world is heading and what’s possible with technology.
+
+---
+
+## Founders with David Senra
+
+*Founders*, by David Senra, is another pillar.
+
+I discovered it through Tim Ferriss. David reads biographies of history’s greatest founders and influential people and distills them into thoughtful verbal essays.
+
+---
+
+## a16z and Techno-Optimism
+
+The a16z podcast has become increasingly important as I’ve started building my own products.
+
+Andreessen Horowitz focuses on major technological shifts, and right now almost everything involves AI—not because it’s trendy, but because AI can be applied to nearly everything.
+
+One of the most influential episodes was a repost of the **Techno-Optimist Manifesto**, written by Marc Andreessen. The term *techno-optimist* perfectly captures how I see the world.
+
+---
+
+## Attention Ledger: Podcast Listening in 2025
+
+### Total Listening Time
+
+- **~415 hours** of podcasts listened to  
+- **≈ 1.1 hours per day**
+
+### Top Podcasts by Listening Time
+
+| Podcast | Estimated Hours | Why It Mattered |
+|:---|:---:|:---|
+| The Tim Ferriss Show | ~115 | Learning how to learn, asking better questions |
+| Moonshots | ~80 | Optimism, technology, abundance |
+| Founders | ~55 | Studying great builders across history |
+| Modern Wisdom | ~32 | Long-form conversations and perspective |
+| a16z Podcast | ~30 | Technology through an investor lens |
+
+### Listening by Category
+
+| Category | Approx. % of Time | Approx. Hours |
+|:---|:---:|:---|
+| AI / Technology / Future | ~45% | ~190 |
+| Founders / Business / Strategy | ~30% | ~125 |
+| Psychology / Meaning / Philosophy | ~15% | ~60 |
+| Health / Performance | ~10% | ~40 |
+
+---
+
+## Closing
+
+I still want to identify a top 10 list of episodes and revisit them intentionally. I also plan to write a companion piece on where my attention went in books, then synthesize the themes across both.
+    `
+  },
+  {
     slug: "2025.01.01-starting-the-log",
     title: "Starting the Log",
     date: "2025.01.01",
