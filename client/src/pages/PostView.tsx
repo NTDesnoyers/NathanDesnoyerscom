@@ -31,7 +31,7 @@ export default function PostView() {
           </div>
           
           {post.type === 'essay' && (
-            <h1 className="text-3xl md:text-4xl font-serif font-medium leading-tight text-foreground">
+            <h1 className="md:text-4xl font-serif font-medium text-foreground text-[35px]">
               {post.title}
             </h1>
           )}
