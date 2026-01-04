@@ -5,15 +5,33 @@ export function Newsletter() {
   const [email, setEmail] = useState("");
   const [status, setStatus] = useState<"idle" | "loading" | "success" | "error">("idle");
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     setStatus("loading");
-    
-    // Simulate API call
-    setTimeout(() => {
-      setStatus("success");
-      setEmail("");
-    }, 1000);
+
+    // Kit (ConvertKit) Form Submission
+    const FORM_ID = "53ccc14c30";
+    const API_URL = `https://app.kit.com/forms/${FORM_ID}/subscriptions`;
+
+    const formData = new FormData();
+    formData.append("email_address", email);
+
+    try {
+      const response = await fetch(API_URL, {
+        method: "POST",
+        body: formData,
+      });
+
+      if (response.ok) {
+        setStatus("success");
+        setEmail("");
+      } else {
+        setStatus("error");
+      }
+    } catch (error) {
+      console.error("Error submitting to Kit:", error);
+      setStatus("error");
+    }
   };
 
   return (
