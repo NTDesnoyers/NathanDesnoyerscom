@@ -33,7 +33,7 @@ Your content here in markdown format.
   {
     slug: "nova-40-under-40-nomination",
     title: "Northern Virginia 40 Under 40 Nomination",
-    date: "2026.02.04",
+    date: "2026.02.03",
     type: "essay",
     content: `
 I was recently nominated for the Northern Virginia 40 Under 40 awards, which recognizes young professionals making an impact in our region. As part of the application process, I was asked to reflect on my leadership, civic engagement, and personal journey. Below are my responses to the three questions posed by the selection committee.
