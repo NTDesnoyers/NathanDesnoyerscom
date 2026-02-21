@@ -1,0 +1,21 @@
+# CodeRabbit config — tuned for solo vibe coder
+# Focus: real bugs, security issues, broken logic. Skip style nitpicks.
+reviews:
+  profile: "chill"
+  request_changes_workflow: false
+  high_level_summary: true
+  poem: false
+  review_status: true
+  collapse_walkthrough: false
+  auto_review:
+    enabled: true
+    drafts: false
+  path_filters:
+    - "!**/*.lock"
+    - "!**/node_modules/**"
+    - "!**/.next/**"
+    - "!**/dist/**"
+    - "!**/build/**"
+chat:
+  auto_reply: true
+language: "en-US"
