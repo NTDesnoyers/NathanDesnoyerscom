@@ -92,9 +92,9 @@ const companies: Company[] = [
     name: "Sierra AI",
     tier: 2,
     role: "Solutions Engineer",
-    status: "Not Started",
+    status: "Applied",
     careersUrl: "https://sierra.ai/careers",
-    lastActionDate: null,
+    lastActionDate: "2026-02-22",
   },
   {
     name: "Glean",
