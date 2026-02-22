@@ -38,7 +38,7 @@ Your content here in markdown format.
     content: `
 Here's what I keep coming back to: the thing that determines whether you build something is not your degree, not your job title, not whether you've ever written production code. It's whether you have a tight enough feedback loop to keep learning. That's it. Everything else is noise. The loop is the thing. Credentials are a signal of past loops, not a guarantee of future ones.
 
-I know this because I'm a real estate advisor with a mechanical engineering degree who spent December 2024 building a personal memory operating system in Replit. I'm not a developer. I've never been a developer. But I'm building something, and it's getting better every week, and I can point to the exact moment I understood that the credentials story was a lie.
+I know this because I'm a Realtor with a mechanical engineering degree who spent the last two months building a personal memory operating system in Replit. Prior to this, I wasn't a developer. But I'm building something, and it's getting better every week, and I can point to the exact moment I understood that the credentials story was a lie.
 
 There was a moment — I remember it clearly — sitting at my desk, watching an AI summarize a conversation I'd had, pull out the action items, and drop them into a clean format. And I thought: *I should be able to do this for all of my data and all of my life.* Not just meeting notes. Relationships. Patterns. The stuff that slips through the cracks of a busy day. The follow-up I meant to send. The insight from a conversation three months ago that's relevant right now.
 
