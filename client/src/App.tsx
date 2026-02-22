@@ -10,6 +10,7 @@ import Essays from "@/pages/Essays";
 import RealEstate from "@/pages/RealEstate";
 import About from "@/pages/About";
 import PostView from "@/pages/PostView";
+import PlanB from "@/pages/PlanB";
 
 function Router() {
   return (
@@ -19,6 +20,7 @@ function Router() {
       <Route path="/essays" component={Essays} />
       <Route path="/real-estate" component={RealEstate} />
       <Route path="/about" component={About} />
+      <Route path="/plan-b" component={PlanB} />
       <Route path="/notes/:slug" component={PostView} />
       <Route path="/essays/:slug" component={PostView} />
       <Route component={NotFound} />
