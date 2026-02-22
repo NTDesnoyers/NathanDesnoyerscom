@@ -27,9 +27,9 @@ const companies: Company[] = [
     name: "OpenAI",
     tier: 1,
     role: "AI Deployment Engineer",
-    status: "Not Started",
+    status: "Applied",
     careersUrl: "https://openai.com/careers",
-    lastActionDate: null,
+    lastActionDate: "2026-02-22",
   },
   {
     name: "Anthropic",
