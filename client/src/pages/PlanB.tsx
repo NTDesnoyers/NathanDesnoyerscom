@@ -29,7 +29,7 @@ const companies: Company[] = [
     role: "AI Deployment Engineer",
     status: "Not Started",
     careersUrl: "https://openai.com/careers",
-    lastActionDate: "2026-02-18",
+    lastActionDate: null,
   },
   {
     name: "Anthropic",
@@ -37,7 +37,7 @@ const companies: Company[] = [
     role: "Applied AI Engineer",
     status: "Not Started",
     careersUrl: "https://anthropic.com/careers",
-    lastActionDate: "2026-02-18",
+    lastActionDate: null,
   },
   {
     name: "Humans&",
@@ -45,7 +45,7 @@ const companies: Company[] = [
     role: "AI Solutions",
     status: "Not Started",
     careersUrl: "https://humans.ai",
-    lastActionDate: "2026-02-20",
+    lastActionDate: null,
   },
   {
     name: "xAI",
@@ -70,7 +70,7 @@ const companies: Company[] = [
     role: "Forward Deployed Engineer",
     status: "Not Started",
     careersUrl: "https://firecrawl.dev/careers",
-    lastActionDate: "2026-02-19",
+    lastActionDate: null,
   },
   {
     name: "Cohere",
@@ -111,7 +111,7 @@ const companies: Company[] = [
     role: "AI Solutions",
     status: "Not Started",
     careersUrl: "https://lofty.com/careers",
-    lastActionDate: "2026-02-21",
+    lastActionDate: null,
   },
   {
     name: "EliseAI",
