@@ -10,7 +10,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
     { href: "/essays", label: "Essays" },
     { href: "/real-estate", label: "Real Estate" },
     { href: "/about", label: "About" },
-    { href: "/plan-b", label: "Plan B" },
+    { href: "/plan-b", label: "In the Arena" },
   ];
 
   return (

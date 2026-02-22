@@ -255,7 +255,7 @@ export default function PlanB() {
             </span>
           </div>
           <h1 className="text-3xl md:text-4xl font-serif font-medium text-foreground mb-4 leading-tight">
-            Plan B — The AI Career Hunt
+            In the Arena — The AI Career Hunt
           </h1>
           <p className="text-lg text-muted-foreground leading-relaxed mb-3 max-w-2xl">
             Real estate agent → AI operator → FDE / Solutions Engineer at a frontier lab.
